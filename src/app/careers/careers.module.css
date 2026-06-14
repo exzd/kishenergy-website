@@ -1,0 +1,124 @@
+.careersHero {
+  padding: 6rem 0 4rem 0;
+  text-align: center;
+  background: radial-gradient(circle at 50% 100%, rgba(20, 27, 43, 0.3) 0%, rgba(7, 11, 18, 1) 100%);
+}
+
+.title {
+  font-size: 3.5rem;
+  font-weight: 800;
+  margin-bottom: 1.5rem;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: var(--text-secondary);
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.section {
+  padding: 5rem 0;
+}
+
+.bgSecondary {
+  background-color: var(--bg-secondary);
+}
+
+.cultureWrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.cultureTitle {
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--accent-gold);
+}
+
+.cultureDesc {
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+  line-height: 1.8;
+}
+
+.jobList {
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.jobCard {
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  border-radius: 8px;
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: all 0.3s ease;
+}
+
+.jobCard:hover {
+  border-color: var(--border-gold);
+}
+
+@media (max-width: 576px) {
+  .jobCard {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.5rem;
+  }
+}
+
+.jobInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.jobTitle {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.jobMeta {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+.applyBtn {
+  background: transparent;
+  border: 1px solid var(--accent-gold);
+  color: var(--accent-gold);
+  padding: 0.6rem 1.5rem;
+  border-radius: 4px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.applyBtn:hover {
+  background: var(--accent-gold);
+  color: var(--bg-primary);
+}
+
+.noJobs {
+  text-align: center;
+  color: var(--text-secondary);
+  font-size: 1.05rem;
+  padding: 3rem;
+  border: 1px dashed var(--border-light);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.01);
+}

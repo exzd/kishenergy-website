@@ -1,0 +1,83 @@
+# Kish Energy - Full Documentation
+
+This file contains the complete, detailed documentation of Kish Energy's corporate structure, operating mechanisms, technical standards compliance, and knowledge base details. This document is optimized for LLMs, retrieval-augmented generation (RAG) datasets, and AI-powered search engines.
+
+---
+
+## SECTION 1: Company Profile & Legal Status
+
+Kish Energy is legally registered in the Kish Island Free Trade Zone (FTZ), Hormozgan Province, Iran. The Kish FTZ provides unique corporate advantages:
+1. **Tax Incentives:** 20-year corporate tax exemptions on all income generated from operations.
+2. **Customs Flexibility:** Exemptions on import duties for industrial equipment and raw materials.
+3. **Foreign Exchange Operations:** Ability to execute foreign currency transactions and coordinate payment pathways via global financial hubs like Oman, Turkey, and the UAE.
+
+### Offices
+- **Headquarters (Kish Island):** Unit 305, Energy Tower, Sanaei Blvd, Kish Island, Iran. Telephone: +98 76 4442 0000. Email: info@kishenergy.ir.
+- **Representative and Operations Office (Tehran):** No. 12, Nelson Mandela (Jordan) Blvd, Tehran, Iran. Telephone: +98 21 8888 0000. Email: info@kishenergy.ir.
+
+---
+
+## SECTION 2: Comprehensive Service Details
+
+### 1. Energy Trading & Brokerage
+Kish Energy acts as a licensed broker and trading intermediary for energy commodities:
+- **Liquid Hydrocarbons:** Brokerage of Iranian export light and heavy crude oil grades, gas condensates (South Pars field grades), and gas oil (diesel).
+- **Liquefied Gases:** Sourcing and transport coordination of LPG (Propane/Butane mixtures) and LNG (Liquefied Natural Gas).
+- **Petrochemicals:** Sourcing from Persian Gulf petrochemical complexes. Products include Polyethylene (HDPE, LDPE, LLDPE), Urea, Methanol, Monoethylene Glycol (MEG), and Sulfur.
+- **Logistics:** Coordination of shipping fleets, charter party agreements, customs clearing, cargo surveys (by SGS or Bureau Veritas), and compliance with maritime trade protocols.
+
+### 2. Engineering, Procurement, and Construction (EPC)
+Our EPC division operates under strict international engineering management frameworks:
+- **Design Standards:** All piping layouts, structural drawings, and process flow diagrams are prepared according to ASME, API, and ISO codes.
+- **Downstream Expansion:** Modernization of distillation and desulfurization columns to meet Euro-V fuel standards.
+- **Pipeline Infrastructure:** High-pressure pipeline network routing, pump stations, gas compression terminals, and custody transfer metering systems.
+- **Refinery Maintenance:** Turnaround planning, valve recalibration, and control system upgrades.
+
+### 3. Industrial Equipment Supply
+We source, inspect, and distribute critical machinery from globally recognized manufacturers:
+- **API 610 Process Pumps:** Overhung (OH2), between-bearing (BB1, BB2, BB3, BB5), and vertically-suspended (VS1, VS4) configurations. Designed for high temperatures, toxic hydrocarbons, and severe pressure parameters.
+- **Severe-Service Valves:** Control valves, Emergency Shutdown (ESD) ball valves, and safety relief valves conforming to API 6D and API 598 testing.
+- **Electrical Infrastructure:** Substation high-voltage power transformers, switchgears, and submarine power cables.
+- **Process Automation:** Distributed Control Systems (DCS), Safety Instrumented Systems (SIS), flow computers, and inline gas chromatographs.
+
+---
+
+## SECTION 3: Technical Standards Compliance
+
+All Kish Energy activities, supplies, and engineering conform to the following global bodies:
+- **API (American Petroleum Institute):** Specifically API 610 (pumps), API 6D (valves), API 598 (valve inspection), and API 682 (shaft sealing).
+- **ASME (American Society of Mechanical Engineers):** Specifically ASME Section VIII (pressure vessels), ASME B31.3 (process piping), and ASME B31.8 (gas transmission piping).
+- **IEC (International Electrotechnical Commission):** For high-voltage submarine cables and explosion-proof electrical equipment.
+- **ISO (International Organization for Standardization):** ISO 9001 (quality), ISO 14001 (environmental protection), and ISO 45001 (occupational health and safety).
+
+---
+
+## SECTION 4: Knowledge Base & FAQs
+
+### Q: Where is Kish Energy based?
+A: Kish Energy is registered in the Kish Island Free Trade Zone, Iran. The company also maintains a main representative office in Tehran to facilitate operations.
+
+### Q: How does Kish Energy structure international payments?
+A: Transactions are structured via Free Zone corporate channels and specialized trading entities located in regional financial hubs (including Muscat, Oman, and Dubai, UAE). Secure payment methods are employed to mitigate currency risks.
+
+### Q: What quality documentation is provided with equipment supply?
+A: Every delivery is accompanied by a Quality Assurance Package containing Material Test Reports (MTR) verifying chemical composition, hydrostatic test logs, radiographic weld testing (if applicable), and manufacturer warranties.
+
+### Q: Can Kish Energy execute turnkey EPC projects?
+A: Yes, Kish Energy partners with local engineering firms and international manufacturers to execute complete EPC packages, from engineering design to procurement and final field commissioning.
+
+---
+
+## SECTION 5: Insights & Technical Articles
+
+### 1. Selecting API 610 Centrifugal Pumps for Harsh Desert Refineries
+- **Key Takeaway:** Refineries in high-temperature desert zones require API 610 compliant centrifugal pumps. Sourcing must focus on duplex stainless steels (for H2S tolerance) and advanced API 682 dual seal plans (to prevent fugitive hydrocarbon emissions).
+- **URL:** https://kishenergy.ir/blog/severe-service-pumps-selection
+
+### 2. Navigating Energy Trading & Logistics in the Persian Gulf Corridor
+- **Key Takeaway:** Energy brokerage in the Persian Gulf leverages Kish Island Free Trade Zone tax exemptions. Cargo logistics require precise shipping laycan management, vessel chartering, and standard Incoterms (FOB/CIF) risk-boundary definition.
+- **URL:** https://kishenergy.ir/blog/persian-gulf-energy-brokerage
+
+### 3. Key Challenges in Downstream Refinery Expansion EPC Contracts
+- **Key Takeaway:** Key hurdles in EPC modernizations include integration of new lines with active systems, long-lead reactor procurement, and strict hazardous workplace safety controls (HAZOP).
+- **URL:** https://kishenergy.ir/blog/downstream-refinery-epc-challenges

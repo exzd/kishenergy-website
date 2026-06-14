@@ -1,0 +1,125 @@
+.servicesHero {
+  padding: 6rem 0 4rem 0;
+  text-align: center;
+  background: radial-gradient(circle at 50% 100%, rgba(20, 27, 43, 0.3) 0%, rgba(7, 11, 18, 1) 100%);
+}
+
+.title {
+  font-size: 3.5rem;
+  font-weight: 800;
+  margin-bottom: 1.5rem;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: var(--text-secondary);
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.section {
+  padding: 6rem 0;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.section:last-child {
+  border-bottom: none;
+}
+
+.even {
+  background-color: var(--bg-secondary);
+}
+
+.serviceWrapper {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  gap: 4rem;
+  align-items: center;
+}
+
+@media (max-width: 992px) {
+  .serviceWrapper {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+}
+
+.serviceContent {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.serviceHeader {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.serviceTagline {
+  color: var(--accent-gold);
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.serviceTitle {
+  font-size: 2.25rem;
+  font-weight: 800;
+  color: var(--text-primary);
+}
+
+.serviceBody {
+  font-size: 1.05rem;
+  color: var(--text-secondary);
+  line-height: 1.7;
+}
+
+.list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.listItem {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  background: var(--bg-card);
+  padding: 1rem 1.5rem;
+  border-radius: 6px;
+  border: 1px solid var(--border-light);
+  color: var(--text-primary);
+  font-weight: 500;
+}
+
+.listIcon {
+  color: var(--accent-gold);
+  font-weight: bold;
+}
+
+.visualSide {
+  background: radial-gradient(circle, rgba(20, 27, 43, 0.6) 0%, rgba(7, 11, 18, 0.9) 100%);
+  border: 1px dashed var(--border-gold);
+  border-radius: 12px;
+  padding: 5rem 2rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.visualIcon {
+  font-size: 4rem;
+  margin-bottom: 1.5rem;
+}
+
+.visualTitle {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
