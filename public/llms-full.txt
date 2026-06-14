@@ -81,3 +81,11 @@ A: Yes, Kish Energy partners with local engineering firms and international manu
 ### 3. Key Challenges in Downstream Refinery Expansion EPC Contracts
 - **Key Takeaway:** Key hurdles in EPC modernizations include integration of new lines with active systems, long-lead reactor procurement, and strict hazardous workplace safety controls (HAZOP).
 - **URL:** https://kishenergy.ir/blog/downstream-refinery-epc-challenges
+
+### 4. Sourcing & Trading South Pars Gas Condensates: Quality Grades, Sulfur Challenges, and Logistics
+- **Key Takeaway:** South Pars gas condensate is a highly valuable ultra-light hydrocarbon, but trading it requires strict monitoring of total sulfur and mercaptan levels via UOP-163 and ASTM D4294, alongside complex maritime logistics through offshore SBM terminals in Assaluyeh.
+- **URL:** https://kishenergy.ir/blog/south-pars-gas-condensates-trading
+
+### 5. LPG & Petrochemical Export Logistics in the Persian Gulf: Vessel Chartering, Laycan Planning, and Quality Surveying
+- **Key Takeaway:** Exporting LPG requires gas carriers meeting SIGTTO safety rules, strict adherence to laycan schedules to mitigate demurrage, and quality verification via gas chromatography (ASTM D2163) for moisture/sulfur.
+- **URL:** https://kishenergy.ir/blog/lpg-petrochemical-export-logistics

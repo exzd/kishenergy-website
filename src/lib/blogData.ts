@@ -167,4 +167,238 @@ export const blogPosts: BlogPost[] = [
       },
     },
   },
+  {
+    slug: "south-pars-gas-condensates-trading",
+    title: {
+      en: "Sourcing & Trading South Pars Gas Condensates: Quality Grades, Sulfur Challenges, and Logistics",
+      fa: "تامین و تجارت میعانات گازی پارس جنوبی: گریدهای کیفی، چالش‌های گوگردزدایی و لجستیک",
+    },
+    desc: {
+      en: "A deep-dive technical guide into South Pars gas condensate grades, key ASTM specification controls, and the logistics of offshore loading terminals.",
+      fa: "راهنمای فنی جامع درباره گریدهای کیفی میعانات گازی پارس جنوبی، استانداردهای آزمایشگاهی ASTM و لجستیک پایانه‌های بارگیری فراساحلی.",
+    },
+    date: "2026-06-12",
+    readTime: {
+      en: "8 min read",
+      fa: "مطالعه ۸ دقیقه",
+    },
+    icon: "🔥",
+    category: {
+      en: "Energy Trading",
+      fa: "تجارت انرژی",
+    },
+    content: {
+      en: {
+        html: `
+          <div class="key-takeaways" style="background: rgba(212, 175, 55, 0.1); border-left: 4px solid var(--accent-gold); padding: 1rem; margin-bottom: 1.5rem; border-radius: 4px;">
+            <strong>Key Takeaway:</strong> South Pars gas condensate is a highly valuable ultra-light hydrocarbon liquid, but trading it requires strict monitoring of total sulfur and mercaptan levels via UOP-163 and ASTM D4294, alongside complex maritime logistics through offshore SBM terminals in Assaluyeh.
+          </div>
+
+          <p>South Pars, sharing the world's largest non-associated gas field with Qatar's North Dome, generates substantial volumes of gas condensates. As an ultra-light oil (typically with API gravity between 45° and 55°), it serves as a highly sought-after feedstock for regional splitters and petrochemical plants looking to produce naphtha, gasoline, and jet fuel.</p>
+
+          <h2>Understanding South Pars Quality Grades</h2>
+          <p>Unlike standard light crude oils, South Pars gas condensate is predominantly composed of light paraffinic hydrocarbons. Sourcing this commodity requires close evaluation of physical and chemical parameters to align with refinery configuration limits. The key quality parameters include:</p>
+
+          <table style="width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: 0.95rem;">
+            <thead>
+              <tr style="border-bottom: 2px solid var(--accent-gold); text-align: left;">
+                <th style="padding: 0.75rem;">Quality Parameter</th>
+                <th style="padding: 0.75rem;">Standard Test Method</th>
+                <th style="padding: 0.75rem;">Typical Range</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                <td style="padding: 0.75rem;"><strong>API Gravity</strong></td>
+                <td style="padding: 0.75rem;">ASTM D5002</td>
+                <td style="padding: 0.75rem;">48 – 53</td>
+              </tr>
+              <tr style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                <td style="padding: 0.75rem;"><strong>Total Sulfur</strong></td>
+                <td style="padding: 0.75rem;">ASTM D4294</td>
+                <td style="padding: 0.75rem;">0.15 – 0.25 wt%</td>
+              </tr>
+              <tr style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                <td style="padding: 0.75rem;"><strong>Mercaptan Sulfur</strong></td>
+                <td style="padding: 0.75rem;">UOP-163</td>
+                <td style="padding: 0.75rem;">100 – 160 ppmw</td>
+              </tr>
+              <tr style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                <td style="padding: 0.75rem;"><strong>Reid Vapor Pressure (RVP)</strong></td>
+                <td style="padding: 0.75rem;">ASTM D323</td>
+                <td style="padding: 0.75rem;">5.5 – 7.5 psi</td>
+              </tr>
+              <tr style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                <td style="padding: 0.75rem;"><strong>Water & Sediment</strong></td>
+                <td style="padding: 0.75rem;">ASTM D4007</td>
+                <td style="padding: 0.75rem;">&lt; 0.05 vol%</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <h2>The Challenge of Sour Condensate & Mercaptans</h2>
+          <p>One of the primary technical hurdles in processing South Pars condensate is its high concentration of organosulfur compounds, particularly mercaptans. High-mercaptan feeds cause significant corrosion in piping and process equipment and pose severe environmental hazards. Splitters must utilize de-mercaptanization processes (such as DMD technology or caustic wash systems) to reduce mercaptan sulfur content to less than 10 ppmw before distillation.</p>
+
+          <h2>Offshore Logistics: Assaluyeh SBM Operations</h2>
+          <p>Logistical operations for exporting South Pars gas condensate are concentrated in the port of Assaluyeh. Due to the shallow coastal waters, large chemical tankers cannot berth directly at the piers. Instead, loading is executed via offshore Single Buoy Mooring (SBM) systems connected to shore tanks through underwater pipelines. Ensuring safe, efficient loading requires careful coordination of vessel sizes, weather patterns in the Persian Gulf, and high-flow rate subsea pump management.</p>
+
+          <h2>Structuring Trade and Quality Controls</h2>
+          <p>Mitigating commercial risk in gas condensate trading demands strict quality control. Independently certified surveyors (such as SGS or Bureau Veritas) must perform sampling and testing directly from the shore tanks and ship tanks during loading to issue the formal Certificate of Quality (CoQ). Sourcing desks utilize regional financial platforms and legal structures in Free Trade Zones like Kish Island to execute these transactions securely.</p>
+
+          <h2 style="border-top: 1px solid rgba(255,255,255,0.1); padding-top: 1.5rem; margin-top: 2rem;">Frequently Asked Questions (FAQ)</h2>
+          
+          <div class="faq-item" style="margin-bottom: 1.2rem;">
+            <p style="color: var(--accent-gold); font-weight: 600; margin-bottom: 0.3rem;">Q: What is the average API gravity of South Pars gas condensate?</p>
+            <p>A: The average API gravity ranges from 48 to 53, placing it in the ultra-light hydrocarbon class. This high API gravity yields an exceptionally high volume of light distillates, specifically naphtha, during refinery fractionation.</p>
+          </div>
+          
+          <div class="faq-item" style="margin-bottom: 1.2rem;">
+            <p style="color: var(--accent-gold); font-weight: 600; margin-bottom: 0.3rem;">Q: How are quality specifications verified during cargo loading?</p>
+            <p>A: Quality specifications are verified by certified third-party inspection firms (e.g., SGS, Bureau Veritas). They draw composite samples from shore tanks prior to loading and from ship tanks post-loading, verifying density, sulfur, mercaptans, and water content against the contractual specifications.</p>
+          </div>
+        `,
+      },
+      fa: {
+        html: `
+          <div class="key-takeaways" style="background: rgba(212, 175, 55, 0.1); border-right: 4px solid var(--accent-gold); padding: 1rem; margin-bottom: 1.5rem; border-radius: 4px;">
+            <strong>نکته کلیدی:</strong> میعانات گازی پارس جنوبی یک هیدروکربن فوق‌العاده سبک و باارزش است، اما تجارت آن مستلزم نظارت دقیق بر میزان گوگرد کل و مرکاپتان‌ها از طریق استانداردهای UOP-163 و ASTM D4294، به همراه مدیریت عملیات پیچیده بارگیری دریایی از پایانه‌های SBM عسلویه است.
+          </div>
+
+          <p>میدان پارس جنوبی که بزرگترین میدان گازی مستقل جهان مشترک بین ایران و قطر است، سالانه حجم بسیار بالایی از میعانات گازی را تولید می‌کند. این محصول به عنوان یک هیدروکربن فوق‌سبک (با درجه API بین ۴۸ تا ۵۳)، خوراک بسیار مطلوبی برای واحدهای پالایشگاهی و پتروشیمی با هدف تولید نفتا، بنزین و سوخت جت محسوب می‌شود.</p>
+
+          <h2>آشنایی با گریدهای کیفی میعانات پارس جنوبی</h2>
+          <p>بر خلاف نفت خام سبک معمولی، میعانات گازی پارس جنوبی عمدتاً از هیدروکربن‌های پارافینیک سبک تشکیل شده است. خرید این کالا نیازمند ارزیابی دقیق مشخصات فیزیکی و شیمیایی جهت همخوانی با پیکربندی پالایشگاه مقصد است. پارامترهای کلیدی کیفیت عبارتند از:</p>
+
+          <table style="width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: 0.95rem; direction: rtl; text-align: right;">
+            <thead>
+              <tr style="border-bottom: 2px solid var(--accent-gold);">
+                <th style="padding: 0.75rem;">پارامتر کیفی</th>
+                <th style="padding: 0.75rem;">روش استاندارد آزمایش</th>
+                <th style="padding: 0.75rem;">محدوده معمول</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                <td style="padding: 0.75rem;"><strong>چگالی (درجه API)</strong></td>
+                <td style="padding: 0.75rem;">ASTM D5002</td>
+                <td style="padding: 0.75rem;">۴۸ – ۵۳</td>
+              </tr>
+              <tr style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                <td style="padding: 0.75rem;"><strong>گوگرد کل</strong></td>
+                <td style="padding: 0.75rem;">ASTM D4294</td>
+                <td style="padding: 0.75rem;">۰.۱۵ – ۰.۲۵ wt%</td>
+              </tr>
+              <tr style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                <td style="padding: 0.75rem;"><strong>مرکاپتان</strong></td>
+                <td style="padding: 0.75rem;">UOP-163</td>
+                <td style="padding: 0.75rem;">۱۰۰ – ۱۶۰ ppmw</td>
+              </tr>
+              <tr style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                <td style="padding: 0.75rem;"><strong>فشار بخار رید (RVP)</strong></td>
+                <td style="padding: 0.75rem;">ASTM D323</td>
+                <td style="padding: 0.75rem;">۵.۵ – ۷.۵ psi</td>
+              </tr>
+              <tr style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                <td style="padding: 0.75rem;"><strong>آب و رسوب (B.S. & W.)</strong></td>
+                <td style="padding: 0.75rem;">ASTM D4007</td>
+                <td style="padding: 0.75rem;">&lt; ۰.۰۵ vol%</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <h2>چالش گوگرد ترش و مرکاپتان‌ها</h2>
+          <p>یکی از چالش‌های اصلی فرآورش میعانات پارس جنوبی، غلظت بالای ترکیبات گوگردی آلی، به ویژه مرکاپتان‌ها است. خوراک با مرکاپتان بالا باعث خوردگی شدید در خطوط لوله و تجهیزات فرآیندی شده و خطرات زیست‌محیطی جدی ایجاد می‌کند. پالایشگاه‌ها باید از فناوری‌های شیرین‌سازی (مانند فرآیندهای DMD یا شستشوی کاستیک) جهت کاهش مرکاپتان به زیر ۱۰ ppmw استفاده نمایند.</p>
+
+          <h2>لجستیک فراساحلی: بارگیری از طریق گوی‌های شناور (SBM) عسلویه</h2>
+          <p>عملیات لجستیک صادرات میعانات گازی پارس جنوبی در بندر عسلویه متمرکز است. به دلیل عمق کم سواحل، نفتکش‌های بزرگ نمی‌توانند مستقیماً در اسکله پهلو بگیرند. در نتیجه، بارگیری از طریق گوی‌های شناور بارگیری فراساحلی (SBM) متصل به مخازن ساحلی از طریق خطوط لوله زیر دریا صورت می‌پذیرد.</p>
+        `,
+      },
+    },
+  },
+  {
+    slug: "lpg-petrochemical-export-logistics",
+    title: {
+      en: "LPG & Petrochemical Export Logistics in the Persian Gulf: Vessel Chartering, Laycan Planning, and Quality Surveying",
+      fa: "لجستیک صادرات ال‌پی‌جی (LPG) و محصولات پتروشیمی در خلیج فارس: اجاره کشتی، برنامه‌ریزی لایکن و بازرسی کیفی",
+    },
+    desc: {
+      en: "An expert review of liquefied gas logistics, LPG transport safety under SIGTTO guidelines, laycan optimization, and independent third-party surveying.",
+      fa: "بررسی تخصصی لجستیک گازهای مایع، ایمنی حمل‌ونقل ال‌پی‌جی بر اساس دستورالعمل‌های SIGTTO، بهینه‌سازی لایکن و بازرسی‌های مستقل شخص ثالث.",
+    },
+    date: "2026-06-14",
+    readTime: {
+      en: "9 min read",
+      fa: "مطالعه ۹ دقیقه",
+    },
+    icon: "🚢",
+    category: {
+      en: "Energy Trading",
+      fa: "تجارت انرژی",
+    },
+    content: {
+      en: {
+        html: `
+          <div class="key-takeaways" style="background: rgba(212, 175, 55, 0.1); border-left: 4px solid var(--accent-gold); padding: 1rem; margin-bottom: 1.5rem; border-radius: 4px;">
+            <strong>Key Takeaway:</strong> Successful export of LPG (Propane and Butane) requires specialized gas carriers meeting SIGTTO rules, strict adherence to cargo laycan windows to minimize demurrage, and rigorous quality surveying using gas chromatography (ASTM D2163) to verify molecular purity.
+          </div>
+
+          <p>The global trade of Liquefied Petroleum Gas (LPG)—consisting of propane and butane mixtures—along with primary petrochemicals requires highly specialized logistics. Sourcing and transporting these liquefied gases through the Persian Gulf corridor demands a combination of maritime safety expertise, vessel chartering knowledge, and strict quality assurance protocols.</p>
+
+          <h2>LPG Vessel Selection and SIGTTO Compliance</h2>
+          <p>LPG is transported under pressure or at refrigerated temperatures to maintain a liquid state. Gas carrier chartering involves three primary categories of vessels, which must strictly comply with the Society of International Gas Tanker and Terminal Operators (SIGTTO) safety regulations:</p>
+          <ul>
+            <li><strong>Pressurized Vessels:</strong> Typically smaller carriers holding gas at ambient temperature under pressures up to 18 bar. Ideal for regional, smaller-scale logistics.</li>
+            <li><strong>Semi-Refrigerated Vessels:</strong> Capable of holding liquefied gas under partial refrigeration and pressure. Highly flexible for regional distribution.</li>
+            <li><strong>Fully Refrigerated VLGCs (Very Large Gas Carriers):</strong> Carrying large cargoes (typically 80,000+ cbm) at atmospheric pressure by cooling propane to -42°C and butane to -5°C. These are the workhorses of global long-distance trade.</li>
+          </ul>
+
+          <h2>Laycan Planning and Demurrage Mitigation</h2>
+          <p>In maritime transport, the <strong>Laycan</strong> (Laydays Cancelling) specifies the window during which the vessel must arrive at the loading terminal. Given the high demand for loading slots at major petrochemical hubs (such as Assaluyeh, Bandar Imam Khomeini, and Ruwais), missing a laycan slot can lead to cancellation of the berth allotment, resulting in heavy financial penalties and demurrage charges that can exceed $35,000 per day. Trading desks must coordinate closely with shipowners and terminal operators to synchronize arrival windows.</p>
+
+          <h2>Quality Surveying and Chemical Verification</h2>
+          <p>LPG composition must be verified prior to vessel departure to ensure it meets international purity standards and customer requirements. Key testing protocols include:</p>
+          <ul>
+            <li><strong>Composition Analysis (ASTM D2163):</strong> Done via gas chromatography to measure precise mole percentages of propane, butane, ethane, and heavier hydrocarbons.</li>
+            <li><strong>Moisture & Water Content (ASTM D2713):</strong> Excess moisture causes valve freezing and hydrate formation. The valve freeze method is typically utilized.</li>
+            <li><strong>Total Sulfur (ASTM D2784):</strong> Verifies that total volatile sulfur remains below contract limits, usually capped at 15–30 ppmw.</li>
+          </ul>
+
+          <h2>Leveraging Free Trade Zones for Commercial Security</h2>
+          <p>Kish Island Free Trade Zone acts as a commercial pivot point. Establishing transactional desks in Kish enables brokers and traders to manage charter parties, letters of credit (LCs), and third-party inspection payments without encountering domestic import barriers. By utilizing these FTZ offshore mechanisms, companies can bridge localized petrochemical supplies with international off-takers via secure bank channels.</p>
+
+          <h2 style="border-top: 1px solid rgba(255,255,255,0.1); padding-top: 1.5rem; margin-top: 2rem;">Frequently Asked Questions (FAQ)</h2>
+          
+          <div class="faq-item" style="margin-bottom: 1.2rem;">
+            <p style="color: var(--accent-gold); font-weight: 600; margin-bottom: 0.3rem;">Q: Why is moisture content control critical in LPG exports?</p>
+            <p>A: Excess water in LPG can freeze in valves and regulators during decompression and transport, leading to blockages and dangerous pressure buildups. It can also lead to the formation of crystalline hydrocarbon hydrates that disrupt flow lines.</p>
+          </div>
+
+          <div class="faq-item" style="margin-bottom: 1.2rem;">
+            <p style="color: var(--accent-gold); font-weight: 600; margin-bottom: 0.3rem;">Q: What are the differences between pressurized and refrigerated gas carrier operations?</p>
+            <p>A: Pressurized carriers carry LPG under pressure (ambient temperature), requiring thick-walled steel tanks but no insulation. Refrigerated carriers carry LPG cooled to boiling point (e.g. -42°C for propane), requiring specialized insulation, cargo compressors, and low-temperature steel alloys, enabling much larger shipment sizes.</p>
+          </div>
+        `,
+      },
+      fa: {
+        html: `
+          <div class="key-takeaways" style="background: rgba(212, 175, 55, 0.1); border-right: 4px solid var(--accent-gold); padding: 1rem; margin-bottom: 1.5rem; border-radius: 4px;">
+            <strong>نکته کلیدی:</strong> صادرات موفق گاز مایع (LPG) نیازمند به کارگیری کشتی‌های تخصصی گازبر مطابق با استانداردهای SIGTTO، پایبندی دقیق به بازه بارگیری (Laycan) برای به حداقل رساندن دموراژ، و انجام بازرسی‌های کنترل کیفیت با روش‌های پیشرفته کروماتوگرافی گازی (ASTM D2163) جهت بررسی خلوص مولکولی است.
+          </div>
+
+          <p>تجارت جهانی گاز مایع (LPG) شامل مخلوط‌های پروپان و بوتان، و همچنین محصولات پتروشیمی پایه، به لجستیک فوق‌العاده تخصصی نیاز دارد. تامین و انتقال این گازهای مایع در دالان خلیج فارس نیازمند دانش فنی در حوزه ایمنی دریانوردی، اجاره شناورها و پروتکل‌های کنترل کیفیت سخت‌گیرانه است.</p>
+
+          <h2>انتخاب شناورهای حمل LPG و انطباق با قواعد SIGTTO</h2>
+          <p>ال‌پی‌جی به صورت تحت فشار یا سرد شده (تحت تبرید) حمل می‌شود تا حالت مایع آن حفظ گردد. اجاره کشتی‌های گازبر در سه دسته اصلی انجام می‌پذیرد که تمامی آن‌ها ملزم به رعایت کامل مقررات ایمنی انجمن بین‌المللی ترمینال‌ها و کشتی‌های گازبر (SIGTTO) هستند:</p>
+          <ul>
+            <li><strong>شناورهای تحت فشار (Pressurized):</strong> کشتی‌های کوچک‌تر با قابلیت تحمل فشار تا ۱۸ بار در دمای محیط. مناسب برای مقاصد نزدیک و حجم‌های پایین.</li>
+            <li><strong>شناورهای نیمه تبریدی (Semi-Refrigerated):</strong> انعطاف‌پذیر با قابلیت سردسازی نسبی و نگهداری تحت فشار جزئی.</li>
+            <li><strong>شناورهای تمام تبریدی (Fully Refrigerated VLGC):</strong> با ظرفیت بالای ۸۰,۰۰۰ متر مکعب با سردسازی پروپان تا دمای منفی ۴۲ درجه سانتی‌گراد.</li>
+          </ul>
+
+          <h2>برنامه‌ریزی لایکن (Laycan) و کاهش هزینه‌های دموراژ</h2>
+          <p>در حمل‌ونقل دریایی، اصطلاح <strong>Laycan</strong> بازه زمانی مشخصی است که کشتی باید در بندر بارگیری پهلو بگیرد. با توجه به ترافیک بالای پایانه‌های اصلی پتروشیمی (مانند عسلویه و بندر امام خمینی)، از دست دادن نوبت بارگیری منجر به جریمه‌های مالی سنگین و هزینه دموراژ (معطلی کشتی) می‌شود که می‌تواند از ۳۵,۰۰۰ دلار در روز فراتر رود.</p>
+        `,
+      },
+    },
+  },
 ];

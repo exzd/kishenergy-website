@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import type { Metadata } from "next";
 import { blogPosts } from "@/lib/blogData";
 import { ArticleClient } from "./ArticleClient";
 
@@ -12,6 +13,47 @@ export async function generateStaticParams() {
 
 interface PageProps {
   params: Promise<{ slug: string }>;
+}
+
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+  const { slug } = await params;
+  const post = blogPosts.find((p) => p.slug === slug);
+
+  if (!post) {
+    return {
+      title: "Article Not Found | Kish Energy",
+    };
+  }
+
+  return {
+    title: post.title.en,
+    description: post.desc.en,
+    alternates: {
+      canonical: `https://kishenergy.ir/blog/${slug}`,
+    },
+    openGraph: {
+      title: post.title.en,
+      description: post.desc.en,
+      url: `https://kishenergy.ir/blog/${slug}`,
+      type: "article",
+      publishedTime: post.date,
+      authors: ["Kish Energy Engineering Board"],
+      images: [
+        {
+          url: "https://kishenergy.ir/og-image.jpg",
+          width: 1200,
+          height: 630,
+          alt: post.title.en,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: post.title.en,
+      description: post.desc.en,
+      images: ["https://kishenergy.ir/og-image.jpg"],
+    },
+  };
 }
 
 export default async function Page({ params }: PageProps) {
@@ -35,3 +77,4 @@ export default async function Page({ params }: PageProps) {
   // Delegate rendering to client component for language toggling
   return <ArticleClient post={post} />;
 }
+
