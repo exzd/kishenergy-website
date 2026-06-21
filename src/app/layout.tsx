@@ -58,22 +58,18 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${inter.variable}`}>
       <head>
-{/* Google Tag Manager */}
+{/* Google Analytics / Tag Manager */}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-WCYGHQMQS0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-WCYGHQMQS0');
-</script>
-{/* Google Analytics */}
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-WCYGHQMQS0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-WCYGHQMQS0');
-</script>
+<script
+  dangerouslySetInnerHTML={{
+    __html: `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-WCYGHQMQS0');
+    `
+  }}
+/>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(getOrganizationSchema()) }}
