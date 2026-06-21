@@ -440,61 +440,22 @@ export const blogPosts: BlogPost[] = [
     }
   },
   {
-    slug: "industrial-heat-exchanger-sourcing-strategies",
+    slug: "kish-energy-epc-future-middle-east",
     title: {
-      en: "Sourcing Strategies for Industrial Heat Exchangers: Quality, Cost, and SEO Impact",
-      fa: "استراتژی‌های تأمین مبدل‌های حرارتی صنعتی: کیفیت، هزینه و اثر سئو"
+      en: "The Future of EPC Contracting in the Middle East: A Kish Energy Perspective",
+      fa: "آینده پیمانکاری EPC در خاورمیانه: چشم‌انداز کیش انرژی"
     },
     desc: {
-      en: "Insights into selecting manufacturers, evaluating certifications, and optimizing content for search engine indexing.",
-      fa: "نکات کلیدی برای انتخاب سازندگان، ارزیابی گواهی‌نامه‌ها و بهینه‌سازی محتوا برای ایندکس شدن موتورهای جستجو"
+      en: "Discover how Kish Energy is leading the charge in sustainable infrastructure and complex EPC projects across the Middle East.",
+      fa: "کشف کنید چگونه کیش انرژی در زیرساخت‌های پایدار و پروژه‌های پیچیده EPC در سراسر خاورمیانه پیشرو است."
     },
     date: "2026-06-22",
-    readTime: { en: "5 min read", fa: "۵ دقیقه مطالعه" },
-    icon: "⚙️",
-    category: { en: "Equipment Supply", fa: "تأمین تجهیزات" },
+    readTime: { en: "7 min read", fa: "۷ دقیقه مطالعه" },
+    icon: "🏗️",
+    category: { en: "EPC Projects", fa: "پروژه‌های EPC" },
     content: {
-      en: { html: `<p>Effective sourcing combines material performance data, cost analysis, and SEO‑friendly documentation to attract global buyers.</p>` },
-      fa: { html: `<p>تأمین مؤثر ترکیبی از داده‌های عملکرد متریال، تحلیل هزینه و مستندسازی بهینه برای سئو است تا خریداران جهانی جذب شوند.</p>` }
-    }
-  },
-  {
-    slug: "seo-best-practices-energy-industry",
-    title: { en: "SEO Best Practices for Energy Industry Blogs", fa: "بهترین روش‌های سئو برای وبلاگ‌های صنعت انرژی" },
-    desc: { en: "Guide on optimizing technical content for search engines, including multilingual strategies and structured data.", fa: "راهنمای بهینه‌سازی محتوای فنی برای موتورهای جستجو، شامل استراتژی‌های چندزبانه و داده‌های ساختار یافته." },
-    date: "2026-06-21",
-    readTime: { en: "4 min read", fa: "۴ دقیقه مطالعه" },
-    icon: "📈",
-    category: { en: "SEO Guidance", fa: "راهنمای سئو" },
-    content: {
-      en: { html: `<p>Effective SEO for energy sector articles involves keyword research, clear headings, multilingual support, and rich snippets. Use structured data like Schema.org for articles to improve indexing.</p>` },
-      fa: { html: `<p>سئو مؤثر برای مقالات صنعت انرژی شامل تحقیق کلمات کلیدی، عناوین واضح، پشتیبانی چندزبانه و اسنیپت‌های غنی است. استفاده از داده‌های ساختار یافته مانند Schema.org برای مقالات، ایندکس شدن را بهبود می‌بخشد.</p>` }
-    }
-  },
-  {
-    slug: "technical-article-structure-for-seo",
-    title: { en: "How to Structure Technical Articles for Better Search Rankings", fa: "چگونه مقالات فنی را برای سئو بهتر ساختار دهیم" },
-    desc: { en: "Tips on using headings, bullet points, and metadata to enhance readability and SEO performance.", fa: "نکات استفاده از عناوین، لیست‌ها و متادیتا برای بهبود خوانایی و عملکرد سئو." },
-    date: "2026-06-21",
-    readTime: { en: "5 min read", fa: "۵ دقیقه مطالعه" },
-    icon: "🛠️",
-    category: { en: "Content Strategy", fa: "استراتژی محتوا" },
-    content: {
-      en: { html: `<p>Organize articles with H1-H3 hierarchy, include tables of contents, and embed internal links to related posts. This boosts dwell time and crawl efficiency.</p>` },
-      fa: { html: `<p>مقاله‌ها را با سلسله مراتب H1‑H3 سازماندهی کنید، فهرست مطالب اضافه کنید و لینک‌های داخلی به پست‌های مرتبط جاسازی کنید. این کار زمان ماندن و کارآمدی خزنده را افزایش می‌دهد.</p>` }
-    }
-  },
-  {
-    slug: "multilingual-content-boost-seo",
-    title: { en: "Using Multilingual Content to Boost SEO in Persian and English", fa: "استفاده از محتوای چندزبانه برای ارتقاء سئو به فارسی و انگلیسی" },
-    desc: { en: "Leverage bilingual posts to capture wider audience and improve search visibility across regions.", fa: "از پست‌های دوزبانه برای جذب مخاطبان گسترده‌تر و بهبود نمایش در نتایج جستجو استفاده کنید." },
-    date: "2026-06-21",
-    readTime: { en: "4 min read", fa: "۴ دقیقه مطالعه" },
-    icon: "🌐",
-    category: { en: "Localization", fa: "بومی‌سازی" },
-    content: {
-      en: { html: `<p>Publish articles in both English and Persian, ensure proper hreflang tags, and translate meta descriptions to reach both local and international users.</p>` },
-      fa: { html: `<p>مقاله‌ها را به هر دو زبان انگلیسی و فارسی منتشر کنید، تگ‌های hreflang مناسب را تنظیم کنید و متا توضیحات را ترجمه کنید تا به کاربران محلی و بین‌المللی برسید.</p>` }
+      en: { html: `<p>As the Middle East transitions towards a diversified energy mix, the role of Engineering, Procurement, and Construction (EPC) contractors is evolving. Kish Energy is at the forefront of this transformation, leveraging our strategic position in the Kish Free Trade Zone to deliver turnkey solutions for both traditional oil and gas sectors and emerging renewable projects. By prioritizing safety, efficiency, and international standards, we ensure that every project not only meets but exceeds the complex demands of today's energy landscape.</p>` },
+      fa: { html: `<p>همزمان با گذار خاورمیانه به سمت ترکیب متنوعی از انرژی‌ها، نقش پیمانکاران مهندسی، تدارکات و ساخت (EPC) در حال تکامل است. کیش انرژی در خط مقدم این تحول قرار دارد و با بهره‌گیری از موقعیت استراتژیک خود در منطقه آزاد کیش، راه‌حل‌های جامعی را برای بخش‌های سنتی نفت و گاز و پروژه‌های نوظهور تجدیدپذیر ارائه می‌دهد. با اولویت دادن به ایمنی، کارایی و استانداردهای بین‌المللی، ما اطمینان حاصل می‌کنیم که هر پروژه نه تنها نیازهای پیچیده چشم‌انداز انرژی امروز را برآورده می‌کند، بلکه از آن‌ها نیز فراتر می‌رود.</p>` }
     }
   },
 ];
