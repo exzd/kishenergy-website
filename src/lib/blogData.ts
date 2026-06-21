@@ -458,4 +458,43 @@ export const blogPosts: BlogPost[] = [
       fa: { html: `<p>تأمین مؤثر ترکیبی از داده‌های عملکرد متریال، تحلیل هزینه و مستندسازی بهینه برای سئو است تا خریداران جهانی جذب شوند.</p>` }
     }
   },
+  {
+    slug: "seo-best-practices-energy-industry",
+    title: { en: "SEO Best Practices for Energy Industry Blogs", fa: "بهترین روش‌های سئو برای وبلاگ‌های صنعت انرژی" },
+    desc: { en: "Guide on optimizing technical content for search engines, including multilingual strategies and structured data.", fa: "راهنمای بهینه‌سازی محتوای فنی برای موتورهای جستجو، شامل استراتژی‌های چندزبانه و داده‌های ساختار یافته." },
+    date: "2026-06-21",
+    readTime: { en: "4 min read", fa: "۴ دقیقه مطالعه" },
+    icon: "📈",
+    category: { en: "SEO Guidance", fa: "راهنمای سئو" },
+    content: {
+      en: { html: `<p>Effective SEO for energy sector articles involves keyword research, clear headings, multilingual support, and rich snippets. Use structured data like Schema.org for articles to improve indexing.</p>` },
+      fa: { html: `<p>سئو مؤثر برای مقالات صنعت انرژی شامل تحقیق کلمات کلیدی، عناوین واضح، پشتیبانی چندزبانه و اسنیپت‌های غنی است. استفاده از داده‌های ساختار یافته مانند Schema.org برای مقالات، ایندکس شدن را بهبود می‌بخشد.</p>` }
+    }
+  },
+  {
+    slug: "technical-article-structure-for-seo",
+    title: { en: "How to Structure Technical Articles for Better Search Rankings", fa: "چگونه مقالات فنی را برای سئو بهتر ساختار دهیم" },
+    desc: { en: "Tips on using headings, bullet points, and metadata to enhance readability and SEO performance.", fa: "نکات استفاده از عناوین، لیست‌ها و متادیتا برای بهبود خوانایی و عملکرد سئو." },
+    date: "2026-06-21",
+    readTime: { en: "5 min read", fa: "۵ دقیقه مطالعه" },
+    icon: "🛠️",
+    category: { en: "Content Strategy", fa: "استراتژی محتوا" },
+    content: {
+      en: { html: `<p>Organize articles with H1-H3 hierarchy, include tables of contents, and embed internal links to related posts. This boosts dwell time and crawl efficiency.</p>` },
+      fa: { html: `<p>مقاله‌ها را با سلسله مراتب H1‑H3 سازماندهی کنید، فهرست مطالب اضافه کنید و لینک‌های داخلی به پست‌های مرتبط جاسازی کنید. این کار زمان ماندن و کارآمدی خزنده را افزایش می‌دهد.</p>` }
+    }
+  },
+  {
+    slug: "multilingual-content-boost-seo",
+    title: { en: "Using Multilingual Content to Boost SEO in Persian and English", fa: "استفاده از محتوای چندزبانه برای ارتقاء سئو به فارسی و انگلیسی" },
+    desc: { en: "Leverage bilingual posts to capture wider audience and improve search visibility across regions.", fa: "از پست‌های دوزبانه برای جذب مخاطبان گسترده‌تر و بهبود نمایش در نتایج جستجو استفاده کنید." },
+    date: "2026-06-21",
+    readTime: { en: "4 min read", fa: "۴ دقیقه مطالعه" },
+    icon: "🌐",
+    category: { en: "Localization", fa: "بومی‌سازی" },
+    content: {
+      en: { html: `<p>Publish articles in both English and Persian, ensure proper hreflang tags, and translate meta descriptions to reach both local and international users.</p>` },
+      fa: { html: `<p>مقاله‌ها را به هر دو زبان انگلیسی و فارسی منتشر کنید، تگ‌های hreflang مناسب را تنظیم کنید و متا توضیحات را ترجمه کنید تا به کاربران محلی و بین‌المللی برسید.</p>` }
+    }
+  },
 ];
