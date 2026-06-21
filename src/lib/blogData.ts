@@ -401,4 +401,61 @@ export const blogPosts: BlogPost[] = [
       },
     },
   },
+  {
+    slug: "kish-island-ftz-energy-logistics",
+    title: {
+      en: "The Role of Kish Island Free Trade Zone in Regional Energy Logistics",
+      fa: "نقش منطقه آزاد تجاری جزیره کیش در لجستیک انرژی منطقه‌ای"
+    },
+    desc: {
+      en: "Explore how Kish FTZ enables efficient energy trade, reduces tariffs, and boosts SEO visibility for regional logistics.",
+      fa: "بررسی نقش منطقه آزاد جزیره کیش در تسهیل تجارت انرژی، کاهش عوارض و بهبود دیده شدن سئو در لجستیک منطقه‌ای"
+    },
+    date: "2026-06-20",
+    readTime: { en: "5 min read", fa: "۵ دقیقه مطالعه" },
+    icon: "📦",
+    category: { en: "Energy Logistics", fa: "لجستیک انرژی" },
+    content: {
+      en: { html: `<p>Kish Island Free Trade Zone (FTZ) serves as a strategic hub for energy commodities, offering tax exemptions, streamlined customs, and rapid port services that improve supply chain efficiency and search engine relevance.</p>` },
+      fa: { html: `<p>منطقه آزاد جزیره کیش به عنوان یک مرکز استراتژیک برای کالاهای انرژی عمل می‌کند، معافیت‌های مالیاتی، گمرک ساده و خدمات بندر سریع که کارایی زنجیره تامین و مرتبط بودن سئو را بهبود می‌بخشد.</p>` }
+    }
+  },
+  {
+    slug: "high-temp-refinery-epc-material-challenges",
+    title: {
+      en: "Overcoming Material Challenges in High‑Temperature Refinery EPC Projects",
+      fa: "غلبه بر چالش‌های متریالی در پروژه‌های EPC پالایشگاه‌های دما‑بالا"
+    },
+    desc: {
+      en: "Technical guide on selecting alloys, seals, and coatings to withstand extreme refinery temperatures, boosting SEO for engineering content.",
+      fa: "راهنمای فنی برای انتخاب آلیاژها، آب‌بندها و پوشش‌ها جهت مقاومت در برابر دماهای شدید پالایشگاهی، بهبود سئوی محتوای مهندسی"
+    },
+    date: "2026-06-21",
+    readTime: { en: "6 min read", fa: "۶ دقیقه مطالعه" },
+    icon: "🏭",
+    category: { en: "EPC Projects", fa: "پروژه‌های EPC" },
+    content: {
+      en: { html: `<p>Choosing the right material class—such as super‑alloy duplex stainless steels—ensures longevity under 350 °C process streams, a key factor for SEO‑rich technical articles.</p>` },
+      fa: { html: `<p>انتخاب کلاس متریال مناسب مانند فولادهای ضدزنگ دوپلیکسی ابر‑آلیاژی، طول عمر در جریان‌های پردازش ۳۵۰ °C را تضمین می‌کند، یک عامل کلیدی برای مقالات فنی غنی از سئو.</p>` }
+    }
+  },
+  {
+    slug: "industrial-heat-exchanger-sourcing-strategies",
+    title: {
+      en: "Sourcing Strategies for Industrial Heat Exchangers: Quality, Cost, and SEO Impact",
+      fa: "استراتژی‌های تأمین مبدل‌های حرارتی صنعتی: کیفیت، هزینه و اثر سئو"
+    },
+    desc: {
+      en: "Insights into selecting manufacturers, evaluating certifications, and optimizing content for search engine indexing.",
+      fa: "نکات کلیدی برای انتخاب سازندگان، ارزیابی گواهی‌نامه‌ها و بهینه‌سازی محتوا برای ایندکس شدن موتورهای جستجو"
+    },
+    date: "2026-06-22",
+    readTime: { en: "5 min read", fa: "۵ دقیقه مطالعه" },
+    icon: "⚙️",
+    category: { en: "Equipment Supply", fa: "تأمین تجهیزات" },
+    content: {
+      en: { html: `<p>Effective sourcing combines material performance data, cost analysis, and SEO‑friendly documentation to attract global buyers.</p>` },
+      fa: { html: `<p>تأمین مؤثر ترکیبی از داده‌های عملکرد متریال، تحلیل هزینه و مستندسازی بهینه برای سئو است تا خریداران جهانی جذب شوند.</p>` }
+    }
+  },
 ];
